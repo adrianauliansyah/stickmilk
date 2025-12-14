@@ -1,0 +1,5 @@
+[
+  { "nama": "Matcha Cloud Milk", "harga": 15000, "gambar": "img/matcha.jpg" },
+  { "nama": "Choco Cloud Milk", "harga": 18000, "gambar": "img/coklat.jpg" },
+  { "nama": "Taro Cloud Milk", "harga": 16000, "gambar": "img/taro.jpg" }
+]
